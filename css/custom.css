@@ -25885,13 +25885,14 @@ header.main-header .header-sticky.active {
 
 .company-supports-content hr {
 	height: 1px;
-	width: 34%;
+	width: 35%;
 	color: var(--divider-color);
 	opacity: 1;
 }
 
 .company-supports-content h3 {
-	font-size: 16px;
+	font-size: 20px;
+	text-transform: uppercase;
 }
 
 .company-supports-logo {
